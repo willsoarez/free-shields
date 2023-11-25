@@ -1106,23 +1106,3 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 4 - Paste on category with `Alphabetical` order.
 
 5 - Commit your changes.
-
-## Creators [🔝](#welcome-badges-4-readmemd-profile)
-
-It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors). As usual, we update our top 3 contributors list on every month. But last month we didn't get any contributor. So for this month We're going to remove this section. We do respect & love our all contributors.
-
-**Note:** Every month the Contributors list will be updated by observing their contributions.
-
-|                                                                                                                                                    Author                                                                                                                                                     |                                                                                                                                     Collaborator                                                                                                                                      |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://github.com/alexandresanlim.png?size=115" width=115><br><sub>@alexandresanlim</sub>](https://github.com/alexandresanlim) <br><br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/alexandresanlim) | [<img src="https://github.com/mrhrifat.png?size=250" width=115><br><sub>@mrhrifat</sub>](https://github.com/mrhrifat) <br><br> [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrhrifat) |
-
-## See More Repositories
-
-| Project                                                                                                         | Short description                                                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Collection.NiceToolsForAppDesign](https://github.com/alexandresanlim/Collection.NiceToolsForAppDesign)         | Nice tools collection for app design                                                                                                                     |
-| [MobileApp.SimpleLandingPage.Template](https://github.com/alexandresanlim/MobileApp.SimpleLandingPage.Template) | Create a very simple landing page for your mobile app with bootstrap only                                                                                |
-| [Badge Genius](https://github.com/mrhrifat/badge-genius)                                                        | Build & Download 2440+ popular brands Badge, SVG, Hex & so on to use in GitHub Markdown or Any Web Pages wth fast, reliable with amazing dynamic process |
-| [Al-Quran](https://github.com/mrhrifat/al-quran)                                                                | Al-Quran is a Sadaqah Jariyah. It's the holy book of Islam. I hope to make it easy for everyone to read, study, & learn Al-Quran.                        |
-| [Shield Icons](https://github.com/mrhrifat/shield-icons)                                                        | Shield Icons will provide Badges, SVG Logo & Hex Color Code to use in GitHub Markdown or Any Web Pages                                                   |
